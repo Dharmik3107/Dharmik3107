@@ -1,4 +1,4 @@
-<img src='https://user-images.githubusercontent.com/49364985/210538067-9310379a-e6a7-41a2-a09c-a41e9f6112b9.jpg' alt='coverimage'/>
+<img src='https://user-images.githubusercontent.com/49364985/210538654-9cc572b0-616b-4005-ae91-d464126fa9e6.jpg' alt='coverimage'/>
 <h1 align="center">Hi 👋, I'm Dharmik Abhangi</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
